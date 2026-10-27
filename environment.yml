@@ -1,0 +1,13 @@
+name: coram
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyomo=6.7.3
+  - ipopt=3.14
+  - pandas=2.2.2
+  - numpy=1.26.4
+  - scipy=1.11.4
+  - scikit-learn=1.2.2
+  - matplotlib=3.8.0
+  - openpyxl=3.1
